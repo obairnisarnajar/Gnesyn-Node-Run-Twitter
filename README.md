@@ -11,7 +11,7 @@ You can run it via:
 2️⃣ VPS Setup (Recommended) 
 
 📺 Watch VPS Setup Video (linked)
-🌐 Buy VPS — https://www.vultr.com/?ref=9747762
+🌐 Buy VPS — ```bashhttps://www.vultr.com/?ref=9747762```
 🪪 Create account
 💳 Add credit card (only ~$2 will be deducted)
 🎟 Use code: FLY300VULTR or 250VULTRFLY
