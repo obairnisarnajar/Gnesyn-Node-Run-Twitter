@@ -13,7 +13,9 @@ You can run it via:
 📺 Watch VPS Setup Video (linked)
 
 🌐 Buy VPS — 
-```bash https://www.vultr.com/?ref=9747762```
+```bash 
+https://www.vultr.com/?ref=9747762
+```
 
 🪪 Create account
 💳 Add credit card (only ~$2 will be deducted)
