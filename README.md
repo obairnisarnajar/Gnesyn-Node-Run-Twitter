@@ -80,6 +80,29 @@ cd $HOME && rm -rf gensyn-testnet && git clone https://github.com/zunxbt/gensyn-
 
 Keep your keys safe! 🔐
 
+**Update ( v0.4.1 )**
+
+**1st command if old user**
+
+```bash
+pkill -f "SCREEN.*gensyn"
+```
+
+**2nd command if old user(just to check which screen is running)
+**
+
+```bash
+screen -ls
+```
+
+**3rd command if old user 
+**
+
+```bash
+[ -n "$(ls "$HOME/rl-swarm/modal-login/temp-data/"*.json 2>/dev/null)" ] && rm -f "$HOME/rl-swarm/modal-login/temp-data/"*.json 2>/dev/null || true
+ ```
+
+
 8️⃣ Check if Node is Running
 
 💬 Go to: 
